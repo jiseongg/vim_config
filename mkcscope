@@ -1,0 +1,4 @@
+# cscope
+function mkcscope() {
+	cscope -b -q -k -R
+}

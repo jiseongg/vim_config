@@ -75,7 +75,6 @@ endfunction
 nmap nerd :NERDTreeToggle<CR>
 
 " - ctags:
-set tags=./tags;
 let g:easytags_async=1
 let g:easytags_auto_highlight=0
 let g:easytags_include_members=1

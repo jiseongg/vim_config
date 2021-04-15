@@ -38,7 +38,6 @@ Plugin 'xolox/vim-easytags'
 Plugin 'xolox/vim-misc'
 Plugin 'ronakg/quickr-cscope.vim'
 Plugin 'majutsushi/tagbar'
-Plugin 'lervag/vimtex'
 Plugin 'cormacrelf/vim-colors-github'
 call vundle#end()
 
